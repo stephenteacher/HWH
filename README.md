@@ -1,6 +1,6 @@
 # Engineering Education Resources
 
-Welcome to a collection of resources for Engineering Education.
+Welcome to a collection of resources for Engineering Students.
 There are collections of files and links for BTEC level two and three and a hyperlinked textbook covering a range of engineering principles suitable for FE <br>
 
 [Engineering Text Book](https://tmc.stephenteacher.com/txtbook.html)<br>
