@@ -5,7 +5,7 @@ There are collections of files and links for [BTEC level two](https://www.pearlt
 
 [Engineering Text Book](https://hwh.stephenteacher.com/txtbook.html)<br>
 
-[Student Note Book](https://hwh.stephenteacher.com/Star Notes.html)<br>
+[Student Note Book](https://hwh.stephenteacher.com/Star%20Notes.html)<br>
 
 [My Youtube Channel](https://www.youtube.com/channel/UCkUteM1llAK8h7A5jzsCnKQ/playlists)
 
