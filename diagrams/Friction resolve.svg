@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="75.533905mm"
+   height="37.541286mm"
+   viewBox="0 0 75.533905 37.541286"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
@@ -23,15 +23,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.72426347"
-     inkscape:cx="396.95499"
-     inkscape:cy="561.25984"
+     inkscape:zoom="1.4485269"
+     inkscape:cx="154.29468"
+     inkscape:cy="137.38095"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1010"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="false" />
   <defs
      id="defs1">
     <inkscape:path-effect
@@ -130,7 +131,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-40.866806,-87.44429)">
     <g
        id="g14"
        transform="translate(-69.263457,-10.067047)">
@@ -288,5 +290,12 @@
          inkscape:original-d="m 119.50267,153.21287 c 5.01563,-2.38942 9.96668,-4.84342 14.91773,-7.29742"
          transform="matrix(0.9210922,0,0,0.9550815,9.4532338,7.207075)" />
     </g>
+    <rect
+       style="fill:none;stroke:none;stroke-width:0.169359;stroke-opacity:1"
+       id="rect3"
+       width="75.533905"
+       height="37.541286"
+       x="40.866806"
+       y="87.44429" />
   </g>
 </svg>
