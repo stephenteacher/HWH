@@ -9,7 +9,14 @@
   </head>
   <body>
     <!-- <model-viewer> HTML element -->
-    <model-viewer src="Tap Wrench Assembly.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="2" environment-image="aircraft_workshop_01_1k.hdr" shadow-softness="0.43">
+    <model-viewer src="Tap Wrench Assembly.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="2" environment-image="aircraft_workshop_01_1k.hdr" shadow-softness="0" exposure="0.28">
+      <button class="Hotspot" slot="hotspot-1" data-position="-0.10259759367980004m -0.011538340038839745m 0.003902063679710405m" data-normal="-1.8639131448198841e-16m 0.6876998542759023m -0.7259951173588585m" data-visibility-attribute="visible">
+          <div class="HotspotAnnotation">Handle</div>
+      </button><button class="Hotspot" slot="hotspot-2" data-position="-0.023170347215383635m -0.0018259668667015005m 0m" data-normal="0m 0m -1m" data-visibility-attribute="visible">
+          <div class="HotspotAnnotation">Body</div>
+      </button><button class="Hotspot" slot="hotspot-3" data-position="-0.010127774960533686m 0.013476747737826034m 0.003610328113344441m" data-normal="0.1336178156531411m 0.9658308343361123m -0.22207448927261425m" data-visibility-attribute="visible">
+          <div class="HotspotAnnotation">Screw</div>
+      </button>
       <div class="progress-bar hide" slot="progress-bar">
           <div class="update-bar"></div>
       </div>
