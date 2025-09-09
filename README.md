@@ -1,4 +1,4 @@
-# **S**tephen **T**eacher **A**cademic **R**esources
+# <span style="color: #FF99E6;">S</span>tephen **T**eacher **A**cademic **R**esources
 
 ## Welcome to a collection of resources for Engineering Students.
 
