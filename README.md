@@ -1,5 +1,5 @@
-## **S**tephen
-# **T**eacher 
+**S**tephen
+**T**eacher 
 # **A**cademic 
 # **R**esources
 
