@@ -1,4 +1,7 @@
-# Stephen **T**eacher **A**cademic **R**esources
+# **S**tephen
+# **T**eacher 
+# **A**cademic 
+# **R**esources
 
 ## Welcome to a collection of resources for Engineering Students.
 
