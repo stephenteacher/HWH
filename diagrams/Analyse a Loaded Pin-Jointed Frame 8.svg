@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 198.36186 167.34953"
+   width="198.36186"
+   role="img"
+   aria-labelledby="title description"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="Analyse a Loaded Pin-Jointed Frame 8.svg"
+   height="167.34953"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.5694444"
+     inkscape:cx="259.84436"
+     inkscape:cy="179.15953"
+     inkscape:window-width="2560"
+     inkscape:window-height="1529"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <title
+     id="title">Force diagram for Joint 4</title>
+  <desc
+     id="description">
+    Force diagram for Joint 4. A known compressive force of
+    5.774 newtons acts horizontally from the left towards the joint.
+    A 12-newton load acts vertically downwards towards the joint.
+    A known compressive force of 12.702 newtons acts diagonally
+    upwards from the lower right towards the joint. Unknown member
+    force F7 is initially assumed tensile and acts diagonally away
+    from the joint towards the lower left.
+  </desc>
+  <defs
+     id="defs4">
+    <rect
+       x="27.175097"
+       y="11.486381"
+       width="454.97275"
+       height="339.26849"
+       id="rect8" />
+    <!-- Purple arrow for known compressive member F3 -->
+    <marker
+       id="purple-arrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="3"
+       orient="auto"
+       markerUnits="strokeWidth">
+      <path
+         d="M 0,0 V 6 L 9,3 Z"
+         fill="#b020d0"
+         id="path1" />
+    </marker>
+    <!-- Blue arrow for the applied 12 N load -->
+    <marker
+       id="blue-arrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="3"
+       orient="auto"
+       markerUnits="strokeWidth">
+      <path
+         d="M 0,0 V 6 L 9,3 Z"
+         fill="#087fff"
+         id="path2" />
+    </marker>
+    <!-- Cyan arrow for known compressive member F5 -->
+    <marker
+       id="cyan-arrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="3"
+       orient="auto"
+       markerUnits="strokeWidth">
+      <path
+         d="M 0,0 V 6 L 9,3 Z"
+         fill="#00d8d8"
+         id="path3" />
+    </marker>
+    <!-- Orange arrow for initially assumed tensile member F7 -->
+    <marker
+       id="orange-arrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="3"
+       orient="auto"
+       markerUnits="strokeWidth">
+      <path
+         d="M 0,0 V 6 L 9,3 Z"
+         fill="#ff9d00"
+         id="path4" />
+    </marker>
+    <style
+       id="style4">
+      .force-line {
+        fill: none;
+        stroke-width: 4;
+        stroke-linecap: round;
+      }
+
+      .purple-force {
+        stroke: #b020d0;
+        marker-end: url(#purple-arrow);
+      }
+
+      .blue-force {
+        stroke: #087fff;
+        marker-end: url(#blue-arrow);
+      }
+
+      .cyan-force {
+        stroke: #00d8d8;
+        marker-end: url(#cyan-arrow);
+      }
+
+      .orange-force {
+        stroke: #ff9d00;
+        marker-end: url(#orange-arrow);
+      }
+
+      .joint {
+        fill: #222;
+      }
+
+      .force-label {
+        font-family: sans-serif;
+        font-size: 25px;
+        font-weight: bold;
+      }
+
+      .purple-label {
+        fill: #b020d0;
+      }
+
+      .blue-label {
+        fill: #087fff;
+      }
+
+      .cyan-label {
+        fill: #00d8d8;
+      }
+
+      .orange-label {
+        fill: #ff9d00;
+      }
+    </style>
+  </defs>
+  <!--
+    Joint centre:
+    x = 265
+    y = 165
+  -->
+  <!--
+    Known compressive member force F3.
+    The force acts horizontally towards Joint 4 from the left.
+  -->
+  <!--
+    Applied load of 12 N.
+    The load acts vertically downwards towards Joint 4.
+  -->
+  <!--
+    Known compressive member force F5.
+    The force begins at the lower right and points towards Joint 4.
+  -->
+  <!--
+    Initially assumed tensile member force F7.
+    The force begins at Joint 4 and points away towards the lower left.
+  -->
+  <!-- Joint drawn last so all arrows meet clearly -->
+  <g
+     id="g8"
+     transform="matrix(0.58513825,0,0,0.58513825,-48.566475,-15.213594)">
+    <line
+       class="force-line purple-force"
+       x1="85"
+       y1="165"
+       x2="252"
+       y2="165"
+       id="line4" />
+    <text
+       class="force-label purple-label"
+       x="103.36187"
+       y="158.44746"
+       id="text4">5.774 N</text>
+    <line
+       class="force-line blue-force"
+       x1="265"
+       y1="28"
+       x2="265"
+       y2="152"
+       id="line5" />
+    <text
+       class="force-label blue-label"
+       x="269.67316"
+       y="88.529182"
+       id="text5">12 N</text>
+    <line
+       class="force-line cyan-force"
+       x1="420"
+       y1="310"
+       x2="275"
+       y2="175"
+       id="line6" />
+    <text
+       class="force-label cyan-label"
+       x="365.69339"
+       y="-68.4589"
+       transform="rotate(43)"
+       id="text6">12.7 N</text>
+    <line
+       class="force-line orange-force"
+       x1="255"
+       y1="175"
+       x2="130"
+       y2="300"
+       id="line7" />
+    <text
+       class="force-label orange-label"
+       x="-66.881989"
+       y="299.53174"
+       transform="rotate(-43)"
+       id="text7">F₇</text>
+    <circle
+       class="joint"
+       cx="265"
+       cy="165"
+       r="13"
+       id="circle7" />
+  </g>
+  <text
+     xml:space="preserve"
+     id="text8"
+     style="writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8);fill:#65e55e;stroke:#2aff29;stroke-width:1.002"
+     transform="translate(-0.35408575,-0.7859915)" />
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Force diagram for Joint 4</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
