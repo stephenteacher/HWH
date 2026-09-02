@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 78.055275 88.880844"
-   width="78.055275"
+   viewBox="0 0 196.15115 223.35556"
+   width="196.15115"
    role="img"
    aria-labelledby="title description"
    version="1.1"
    id="svg5"
    sodipodi:docname="Analyse a Loaded Pin-Jointed Frame 2.svg"
-   height="88.880844"
+   height="223.35556"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -153,7 +153,7 @@
   <!-- Joint drawn last so it remains clearly visible -->
   <g
      id="g5"
-     transform="matrix(0.33909696,0,0,0.33909696,-41.985045,-3.749364)">
+     transform="matrix(0.85214298,0,0,0.85214298,-105.50747,-9.4220668)">
     <line
        class="force-line green-force"
        x1="295"
