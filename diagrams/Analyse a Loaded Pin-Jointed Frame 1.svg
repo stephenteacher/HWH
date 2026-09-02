@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 363.75253 229.60208"
+   width="363.75253"
+   role="img"
+   aria-labelledby="title description"
+   version="1.1"
+   id="svg31"
+   sodipodi:docname="Analyse a Loaded Pin-Jointed Frame 1.svg"
+   height="229.60208"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview31"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.1130982"
+     inkscape:cx="354.69247"
+     inkscape:cy="226.44476"
+     inkscape:window-width="2560"
+     inkscape:window-height="1529"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg31" />
+  <title
+     id="title">Complete loaded pin-jointed frame</title>
+  <desc
+     id="description">
+    Five-joint, seven-member pin-jointed frame. Downward loads of
+    8 newtons and 12 newtons act at the two upper joints. Upward
+    support reactions of 9 newtons and 11 newtons terminate at the
+    bases of the left and right support triangles.
+  </desc>
+  <defs
+     id="defs2">
+    <marker
+       id="blue-arrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="3"
+       orient="auto"
+       markerUnits="strokeWidth">
+      <path
+         d="M 0,0 V 6 L 9,3 Z"
+         fill="#087fff"
+         id="path1" />
+    </marker>
+    <marker
+       id="red-arrow"
+       markerWidth="10"
+       markerHeight="10"
+       refX="8"
+       refY="3"
+       orient="auto"
+       markerUnits="strokeWidth">
+      <path
+         d="M 0,0 V 6 L 9,3 Z"
+         fill="#ff2020"
+         id="path2" />
+    </marker>
+    <style
+       id="style2">
+      .member {
+        fill: none;
+        stroke: #222;
+        stroke-width: 4;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .joint {
+        fill: #222;
+      }
+
+      .load {
+        fill: none;
+        stroke: #087fff;
+        stroke-width: 4;
+        stroke-linecap: round;
+        marker-end: url(#blue-arrow);
+      }
+
+      .reaction {
+        fill: none;
+        stroke: #ff2020;
+        stroke-width: 4;
+        stroke-linecap: round;
+        marker-end: url(#red-arrow);
+      }
+
+      .support {
+        fill: white;
+        stroke: #222;
+        stroke-width: 3;
+        stroke-linejoin: round;
+      }
+
+      .ground {
+        stroke: #777;
+        stroke-width: 2;
+      }
+
+      .joint-label {
+        fill: #52d521;
+        font-family: sans-serif;
+        font-size: 24px;
+        font-weight: bold;
+      }
+
+      .member-label {
+        font-family: sans-serif;
+        font-size: 23px;
+        font-weight: bold;
+      }
+
+      .load-label {
+        fill: #087fff;
+        font-family: sans-serif;
+        font-size: 23px;
+        font-weight: bold;
+      }
+
+      .reaction-label {
+        fill: #ff2020;
+        font-family: sans-serif;
+        font-size: 23px;
+        font-weight: bold;
+      }
+    </style>
+  </defs>
+  <!-- Frame members -->
+  <!-- F1: Joint 1 to Joint 2 -->
+  <!-- F2: Joint 1 to Joint 3 -->
+  <!-- F3: Joint 2 to Joint 4 -->
+  <!-- F4: Joint 2 to Joint 3 -->
+  <!-- F7: Joint 3 to Joint 4 -->
+  <!-- F6: Joint 3 to Joint 5 -->
+  <!-- F5: Joint 4 to Joint 5 -->
+  <!-- Joints -->
+  <!-- Left pin support -->
+  <!-- Right roller support -->
+  <!-- Applied load at Joint 2 -->
+  <!-- Applied load at Joint 4 -->
+  <!--
+    Left support reaction.
+    The endpoint y=355 corresponds to the base of the left triangle.
+  -->
+  <!--
+    Right support reaction.
+    The endpoint y=350 corresponds to the base of the right triangle.
+  -->
+  <!-- Joint numbers -->
+  <!-- Corrected member labels F1 to F7 -->
+  <g
+     id="g41"
+     transform="matrix(0.55114019,0,0,0.55114019,-27.557009,-0.49381946)">
+    <path
+       class="member"
+       d="M 90,315 245,95"
+       id="path3" />
+    <path
+       class="member"
+       d="M 90,315 H 380"
+       id="path4" />
+    <path
+       class="member"
+       d="M 245,95 H 515"
+       id="path5" />
+    <path
+       class="member"
+       d="M 245,95 380,315"
+       id="path6" />
+    <path
+       class="member"
+       d="M 380,315 515,95"
+       id="path7" />
+    <path
+       class="member"
+       d="M 380,315 H 670"
+       id="path8" />
+    <path
+       class="member"
+       d="M 515,95 670,315"
+       id="path9" />
+    <circle
+       class="joint"
+       cx="90"
+       cy="315"
+       r="7"
+       id="circle9" />
+    <circle
+       class="joint"
+       cx="245"
+       cy="95"
+       r="7"
+       id="circle10" />
+    <circle
+       class="joint"
+       cx="380"
+       cy="315"
+       r="7"
+       id="circle11" />
+    <circle
+       class="joint"
+       cx="515"
+       cy="95"
+       r="7"
+       id="circle12" />
+    <circle
+       class="joint"
+       cx="670"
+       cy="315"
+       r="7"
+       id="circle13" />
+    <path
+       class="support"
+       d="m 90,315 -25,40 h 50 z"
+       id="path13" />
+    <line
+       class="ground"
+       x1="50"
+       y1="365"
+       x2="130"
+       y2="365"
+       id="line13" />
+    <path
+       class="support"
+       d="m 670,315 -25,35 h 50 z"
+       id="path14" />
+    <circle
+       class="support"
+       cx="656"
+       cy="362"
+       r="8"
+       id="circle14" />
+    <circle
+       class="support"
+       cx="684"
+       cy="362"
+       r="8"
+       id="circle15" />
+    <line
+       class="ground"
+       x1="630"
+       y1="376"
+       x2="710"
+       y2="376"
+       id="line15" />
+    <line
+       class="load"
+       x1="245"
+       y1="20"
+       x2="245"
+       y2="82"
+       id="line16" />
+    <text
+       class="load-label"
+       x="218"
+       y="18"
+       id="text16">8 N</text>
+    <line
+       class="load"
+       x1="515"
+       y1="20"
+       x2="515"
+       y2="82"
+       id="line17" />
+    <text
+       class="load-label"
+       x="480"
+       y="18"
+       id="text17">12 N</text>
+    <line
+       class="reaction"
+       x1="90"
+       y1="415"
+       x2="90"
+       y2="355"
+       id="line18" />
+    <text
+       class="reaction-label"
+       x="53.103046"
+       y="417.49069"
+       id="text18">R₁</text>
+    <line
+       class="reaction"
+       x1="670"
+       y1="415"
+       x2="670"
+       y2="350"
+       id="line19" />
+    <text
+       class="reaction-label"
+       x="633.6535"
+       y="415.89294"
+       id="text19">R₂</text>
+    <text
+       class="joint-label"
+       x="65"
+       y="300"
+       id="text20"><tspan
+         style="fill:#000000;fill-opacity:1"
+         id="tspan39">1</tspan></text>
+    <text
+       class="joint-label"
+       x="214"
+       y="83"
+       id="text21"><tspan
+         style="fill:#000000;fill-opacity:1"
+         id="tspan38">2</tspan></text>
+    <text
+       class="joint-label"
+       x="369"
+       y="350"
+       id="text22"><tspan
+         style="fill:#000000;fill-opacity:1"
+         id="tspan40">3</tspan></text>
+    <text
+       class="joint-label"
+       x="529"
+       y="83"
+       id="text23"><tspan
+         style="fill:#000000;fill-opacity:1"
+         id="tspan31">4</tspan></text>
+    <text
+       class="joint-label"
+       x="686"
+       y="300"
+       id="text24"><tspan
+         style="fill:#000000;fill-opacity:1"
+         id="tspan41">5</tspan></text>
+    <text
+       class="member-label"
+       x="143"
+       y="193"
+       fill="#00d8d8"
+       id="text25"><tspan
+         style="fill:#000000;fill-opacity:1"
+         id="tspan33">F₁</tspan></text>
+    <text
+       class="member-label"
+       x="225"
+       y="302"
+       fill="#087fff"
+       id="text26"><tspan
+         style="fill:#000000;fill-opacity:1"
+         id="tspan34">F₂</tspan></text>
+    <text
+       class="member-label"
+       x="365"
+       y="82"
+       fill="#ff9d00"
+       id="text27"><tspan
+         style="fill:#000000;fill-opacity:1"
+         id="tspan35">F₃</tspan></text>
+    <text
+       class="member-label"
+       x="273.92996"
+       y="210"
+       fill="#65e65f"
+       id="text28"><tspan
+         style="fill:#000000;fill-opacity:1"
+         id="tspan36">F₄</tspan></text>
+    <text
+       class="member-label"
+       x="588"
+       y="193"
+       fill="#65e65f"
+       id="text29"><tspan
+         style="fill:#000000;fill-opacity:1"
+         id="tspan32">F₅</tspan></text>
+    <text
+       class="member-label"
+       x="527"
+       y="302"
+       fill="#087fff"
+       id="text30"
+       style="fill:#000000;fill-opacity:1">F₆</text>
+    <text
+       class="member-label"
+       x="458.0506"
+       y="210"
+       fill="#ff9d00"
+       id="text31"><tspan
+         style="fill:#000000;fill-opacity:1"
+         id="tspan37">F₇</tspan></text>
+  </g>
+  <metadata
+     id="metadata41">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Complete loaded pin-jointed frame</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
