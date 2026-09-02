@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 363.75253 229.60208"
-   width="363.75253"
+   viewBox="0 0 800 430"
+   width="100%"
    role="img"
    aria-labelledby="title description"
    version="1.1"
    id="svg31"
    sodipodi:docname="Analyse a Loaded Pin-Jointed Frame 1.svg"
-   height="229.60208"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview31"
      pagecolor="#ffffff"
@@ -26,8 +22,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="2.1130982"
-     inkscape:cx="354.69247"
-     inkscape:cy="226.44476"
+     inkscape:cx="293.17142"
+     inkscape:cy="189.05889"
      inkscape:window-width="2560"
      inkscape:window-height="1529"
      inkscape:window-x="1912"
@@ -46,6 +42,44 @@
   <defs
      id="defs2">
     <marker
+       style="overflow:visible"
+       id="marker43"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path43" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
        id="blue-arrow"
        markerWidth="10"
        markerHeight="10"
@@ -54,7 +88,7 @@
        orient="auto"
        markerUnits="strokeWidth">
       <path
-         d="M 0,0 V 6 L 9,3 Z"
+         d="M0,0 L0,6 L9,3 Z"
          fill="#087fff"
          id="path1" />
     </marker>
@@ -67,7 +101,7 @@
        orient="auto"
        markerUnits="strokeWidth">
       <path
-         d="M 0,0 V 6 L 9,3 Z"
+         d="M0,0 L0,6 L9,3 Z"
          fill="#ff2020"
          id="path2" />
     </marker>
@@ -164,247 +198,255 @@
   -->
   <!-- Joint numbers -->
   <!-- Corrected member labels F1 to F7 -->
-  <g
-     id="g41"
-     transform="matrix(0.55114019,0,0,0.55114019,-27.557009,-0.49381946)">
-    <path
-       class="member"
-       d="M 90,315 245,95"
-       id="path3" />
-    <path
-       class="member"
-       d="M 90,315 H 380"
-       id="path4" />
-    <path
-       class="member"
-       d="M 245,95 H 515"
-       id="path5" />
-    <path
-       class="member"
-       d="M 245,95 380,315"
-       id="path6" />
-    <path
-       class="member"
-       d="M 380,315 515,95"
-       id="path7" />
-    <path
-       class="member"
-       d="M 380,315 H 670"
-       id="path8" />
-    <path
-       class="member"
-       d="M 515,95 670,315"
-       id="path9" />
-    <circle
-       class="joint"
-       cx="90"
-       cy="315"
-       r="7"
-       id="circle9" />
-    <circle
-       class="joint"
-       cx="245"
-       cy="95"
-       r="7"
-       id="circle10" />
-    <circle
-       class="joint"
-       cx="380"
-       cy="315"
-       r="7"
-       id="circle11" />
-    <circle
-       class="joint"
-       cx="515"
-       cy="95"
-       r="7"
-       id="circle12" />
-    <circle
-       class="joint"
-       cx="670"
-       cy="315"
-       r="7"
-       id="circle13" />
-    <path
-       class="support"
-       d="m 90,315 -25,40 h 50 z"
-       id="path13" />
-    <line
-       class="ground"
-       x1="50"
-       y1="365"
-       x2="130"
-       y2="365"
-       id="line13" />
-    <path
-       class="support"
-       d="m 670,315 -25,35 h 50 z"
-       id="path14" />
-    <circle
-       class="support"
-       cx="656"
-       cy="362"
-       r="8"
-       id="circle14" />
-    <circle
-       class="support"
-       cx="684"
-       cy="362"
-       r="8"
-       id="circle15" />
-    <line
-       class="ground"
-       x1="630"
-       y1="376"
-       x2="710"
-       y2="376"
-       id="line15" />
-    <line
-       class="load"
-       x1="245"
-       y1="20"
-       x2="245"
-       y2="82"
-       id="line16" />
-    <text
-       class="load-label"
-       x="218"
-       y="18"
-       id="text16">8 N</text>
-    <line
-       class="load"
-       x1="515"
-       y1="20"
-       x2="515"
-       y2="82"
-       id="line17" />
-    <text
-       class="load-label"
-       x="480"
-       y="18"
-       id="text17">12 N</text>
-    <line
-       class="reaction"
-       x1="90"
-       y1="415"
-       x2="90"
-       y2="355"
-       id="line18" />
-    <text
-       class="reaction-label"
-       x="53.103046"
-       y="417.49069"
-       id="text18">R₁</text>
-    <line
-       class="reaction"
-       x1="670"
-       y1="415"
-       x2="670"
-       y2="350"
-       id="line19" />
-    <text
-       class="reaction-label"
-       x="633.6535"
-       y="415.89294"
-       id="text19">R₂</text>
-    <text
-       class="joint-label"
-       x="65"
-       y="300"
-       id="text20"><tspan
-         style="fill:#000000;fill-opacity:1"
-         id="tspan39">1</tspan></text>
-    <text
-       class="joint-label"
-       x="214"
-       y="83"
-       id="text21"><tspan
-         style="fill:#000000;fill-opacity:1"
-         id="tspan38">2</tspan></text>
-    <text
-       class="joint-label"
-       x="369"
-       y="350"
-       id="text22"><tspan
-         style="fill:#000000;fill-opacity:1"
-         id="tspan40">3</tspan></text>
-    <text
-       class="joint-label"
-       x="529"
-       y="83"
-       id="text23"><tspan
-         style="fill:#000000;fill-opacity:1"
-         id="tspan31">4</tspan></text>
-    <text
-       class="joint-label"
-       x="686"
-       y="300"
-       id="text24"><tspan
-         style="fill:#000000;fill-opacity:1"
-         id="tspan41">5</tspan></text>
-    <text
-       class="member-label"
-       x="143"
-       y="193"
-       fill="#00d8d8"
-       id="text25"><tspan
-         style="fill:#000000;fill-opacity:1"
-         id="tspan33">F₁</tspan></text>
-    <text
-       class="member-label"
-       x="225"
-       y="302"
-       fill="#087fff"
-       id="text26"><tspan
-         style="fill:#000000;fill-opacity:1"
-         id="tspan34">F₂</tspan></text>
-    <text
-       class="member-label"
-       x="365"
-       y="82"
-       fill="#ff9d00"
-       id="text27"><tspan
-         style="fill:#000000;fill-opacity:1"
-         id="tspan35">F₃</tspan></text>
-    <text
-       class="member-label"
-       x="273.92996"
-       y="210"
-       fill="#65e65f"
-       id="text28"><tspan
-         style="fill:#000000;fill-opacity:1"
-         id="tspan36">F₄</tspan></text>
-    <text
-       class="member-label"
-       x="588"
-       y="193"
-       fill="#65e65f"
-       id="text29"><tspan
-         style="fill:#000000;fill-opacity:1"
-         id="tspan32">F₅</tspan></text>
-    <text
-       class="member-label"
-       x="527"
-       y="302"
-       fill="#087fff"
-       id="text30"
-       style="fill:#000000;fill-opacity:1">F₆</text>
-    <text
-       class="member-label"
-       x="458.0506"
-       y="210"
-       fill="#ff9d00"
-       id="text31"><tspan
-         style="fill:#000000;fill-opacity:1"
-         id="tspan37">F₇</tspan></text>
-  </g>
-  <metadata
-     id="metadata41">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:title>Complete loaded pin-jointed frame</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+  <path
+     class="member"
+     d="M 90,315 245,95"
+     id="path3" />
+  <path
+     class="member"
+     d="M 90,315 H 380"
+     id="path4" />
+  <path
+     class="member"
+     d="M 245,95 H 515"
+     id="path5" />
+  <path
+     class="member"
+     d="M 245,95 380,315"
+     id="path6" />
+  <path
+     class="member"
+     d="M 380,315 515,95"
+     id="path7" />
+  <path
+     class="member"
+     d="M 380,315 H 670"
+     id="path8" />
+  <path
+     class="member"
+     d="M 515,95 670,315"
+     id="path9" />
+  <circle
+     class="joint"
+     cx="90"
+     cy="315"
+     r="7"
+     id="circle9" />
+  <circle
+     class="joint"
+     cx="245"
+     cy="95"
+     r="7"
+     id="circle10" />
+  <circle
+     class="joint"
+     cx="380"
+     cy="315"
+     r="7"
+     id="circle11" />
+  <circle
+     class="joint"
+     cx="515"
+     cy="95"
+     r="7"
+     id="circle12" />
+  <circle
+     class="joint"
+     cx="670"
+     cy="315"
+     r="7"
+     id="circle13" />
+  <path
+     class="support"
+     d="m 90,315 -25,40 h 50 z"
+     id="path13" />
+  <line
+     class="ground"
+     x1="50"
+     y1="365"
+     x2="130"
+     y2="365"
+     id="line13" />
+  <path
+     class="support"
+     d="m 670,315 -25,35 h 50 z"
+     id="path14" />
+  <circle
+     class="support"
+     cx="656"
+     cy="362"
+     r="8"
+     id="circle14" />
+  <circle
+     class="support"
+     cx="684"
+     cy="362"
+     r="8"
+     id="circle15" />
+  <line
+     class="ground"
+     x1="630"
+     y1="376"
+     x2="710"
+     y2="376"
+     id="line15" />
+  <line
+     class="load"
+     x1="245"
+     y1="20"
+     x2="245"
+     y2="82"
+     id="line16" />
+  <text
+     class="load-label"
+     x="218"
+     y="18"
+     id="text16">8 N</text>
+  <line
+     class="load"
+     x1="515"
+     y1="20"
+     x2="515"
+     y2="82"
+     id="line17" />
+  <text
+     class="load-label"
+     x="480"
+     y="18"
+     id="text17">12 N</text>
+  <line
+     class="reaction"
+     x1="90"
+     y1="415"
+     x2="90"
+     y2="355"
+     id="line18" />
+  <text
+     class="reaction-label"
+     x="53.103046"
+     y="417.49069"
+     id="text18">R₁</text>
+  <line
+     class="reaction"
+     x1="670"
+     y1="415"
+     x2="670"
+     y2="350"
+     id="line19" />
+  <text
+     class="reaction-label"
+     x="633.6535"
+     y="415.89294"
+     id="text19">R₂</text>
+  <text
+     class="joint-label"
+     x="65"
+     y="300"
+     id="text20"><tspan
+       style="fill:#000000;fill-opacity:1"
+       id="tspan39">1</tspan></text>
+  <text
+     class="joint-label"
+     x="214"
+     y="83"
+     id="text21"><tspan
+       style="fill:#000000;fill-opacity:1"
+       id="tspan38">2</tspan></text>
+  <text
+     class="joint-label"
+     x="351.26459"
+     y="338.28793"
+     id="text22"><tspan
+       style="fill:#000000;fill-opacity:1"
+       id="tspan40">3</tspan></text>
+  <text
+     class="joint-label"
+     x="529"
+     y="83"
+     id="text23"><tspan
+       style="fill:#000000;fill-opacity:1"
+       id="tspan31">4</tspan></text>
+  <text
+     class="joint-label"
+     x="686"
+     y="300"
+     id="text24"><tspan
+       style="fill:#000000;fill-opacity:1"
+       id="tspan41">5</tspan></text>
+  <text
+     class="member-label"
+     x="143"
+     y="193"
+     fill="#00d8d8"
+     id="text25"><tspan
+       style="fill:#000000;fill-opacity:1"
+       id="tspan33">F₁</tspan></text>
+  <text
+     class="member-label"
+     x="225"
+     y="302"
+     fill="#087fff"
+     id="text26"><tspan
+       style="fill:#000000;fill-opacity:1"
+       id="tspan34">F₂</tspan></text>
+  <text
+     class="member-label"
+     x="223.20862"
+     y="274.37198"
+     fill="#087fff"
+     id="text26-8"
+     style="font-weight:bold;font-size:23px;font-family:sans-serif;fill:#29ff29;fill-opacity:1"><tspan
+       style="fill:#29ff29;fill-opacity:1"
+       id="tspan34-8">2m</tspan></text>
+  <text
+     class="member-label"
+     x="365"
+     y="82"
+     fill="#ff9d00"
+     id="text27"><tspan
+       style="fill:#000000;fill-opacity:1"
+       id="tspan35">F₃</tspan></text>
+  <text
+     class="member-label"
+     x="273.92996"
+     y="210"
+     fill="#65e65f"
+     id="text28"><tspan
+       style="fill:#000000;fill-opacity:1"
+       id="tspan36">F₄</tspan></text>
+  <text
+     class="member-label"
+     x="588"
+     y="193"
+     fill="#65e65f"
+     id="text29"><tspan
+       style="fill:#000000;fill-opacity:1"
+       id="tspan32">F₅</tspan></text>
+  <text
+     class="member-label"
+     x="527"
+     y="302"
+     fill="#087fff"
+     id="text30"
+     style="fill:#000000;fill-opacity:1">F₆</text>
+  <text
+     class="member-label"
+     x="458.0506"
+     y="210"
+     fill="#ff9d00"
+     id="text31"><tspan
+       style="fill:#000000;fill-opacity:1"
+       id="tspan37">F₇</tspan></text>
+  <path
+     style="fill:#2aff2a;fill-opacity:1;stroke:#2aff29;stroke-width:1.00157;stroke-opacity:1"
+     d="m 380.14008,258.33463 c 0,45.84436 0,45.84436 0,45.84436"
+     id="path41" />
+  <path
+     style="fill:#2aff2a;fill-opacity:1;stroke:#2aff29;stroke-width:1.00157;stroke-opacity:1"
+     d="m 89.384048,258.38911 c 0,45.84436 0,45.84436 0,45.84436"
+     id="path41-9" />
+  <path
+     style="fill:#2aff2a;fill-opacity:1;stroke:#2aff29;stroke-width:0.991738;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Triangle);marker-end:url(#marker43)"
+     d="m 93.958438,276.7393 c 282.573392,0 282.573392,0 282.573392,0"
+     id="path42" />
 </svg>
