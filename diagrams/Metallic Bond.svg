@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="506.95523"
-   height="256.34421"
+   width="483.05002"
+   height="222.4765"
    version="1.1"
    id="svg3"
-   sodipodi:docname="Maetalic Bond.svg"
+   sodipodi:docname="Metallic Bond.svg"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,8 +21,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.8897059"
-     inkscape:cx="265.91439"
-     inkscape:cy="167.48638"
+     inkscape:cx="325.71206"
+     inkscape:cy="126.7393"
      inkscape:window-width="2560"
      inkscape:window-height="1529"
      inkscape:window-x="1912"
@@ -326,10 +326,10 @@
      width="350.31906"
      height="215.37743"
      x="0"
-     y="40.966782" />
+     y="7.099081" />
   <g
      id="g7"
-     transform="translate(-355.66925,-99.325047)">
+     transform="translate(-355.66926,-133.19275)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -351,7 +351,7 @@
   </g>
   <g
      id="g7-8"
-     transform="translate(-302.2039,-99.352827)">
+     transform="translate(-302.20391,-133.22053)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -373,7 +373,7 @@
   </g>
   <g
      id="g7-1"
-     transform="translate(-248.9471,-97.893687)">
+     transform="translate(-248.94711,-131.76139)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -395,7 +395,7 @@
   </g>
   <g
      id="g7-3"
-     transform="translate(-355.65526,-46.862002)">
+     transform="translate(-355.65527,-80.729703)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -417,7 +417,7 @@
   </g>
   <g
      id="g7-8-6"
-     transform="translate(-302.18991,-46.889785)">
+     transform="translate(-302.18992,-80.757486)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -439,7 +439,7 @@
   </g>
   <g
      id="g7-1-7"
-     transform="translate(-248.93311,-45.430642)">
+     transform="translate(-248.93312,-79.298343)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -461,7 +461,7 @@
   </g>
   <g
      id="g7-2"
-     transform="translate(-354.98211,3.2469472)">
+     transform="translate(-354.98212,-30.620754)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -483,7 +483,7 @@
   </g>
   <g
      id="g7-8-4"
-     transform="translate(-301.51676,3.2191642)">
+     transform="translate(-301.51677,-30.648537)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -505,7 +505,7 @@
   </g>
   <g
      id="g7-1-3"
-     transform="translate(-248.25996,4.6783072)">
+     transform="translate(-248.25997,-29.189394)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -527,7 +527,7 @@
   </g>
   <g
      id="g7-3-4"
-     transform="translate(-354.96812,55.709992)">
+     transform="translate(-354.96813,21.842291)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -549,7 +549,7 @@
   </g>
   <g
      id="g7-8-6-7"
-     transform="translate(-301.50277,55.682202)">
+     transform="translate(-301.50278,21.814501)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -571,7 +571,7 @@
   </g>
   <g
      id="g7-1-7-1"
-     transform="translate(-248.24597,57.141352)">
+     transform="translate(-248.24598,23.273651)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -593,7 +593,7 @@
   </g>
   <g
      id="g7-0"
-     transform="translate(-197.93153,-97.048777)">
+     transform="translate(-197.93154,-130.91648)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -615,7 +615,7 @@
   </g>
   <g
      id="g7-8-8"
-     transform="translate(-144.46618,-97.076557)">
+     transform="translate(-144.46619,-130.94426)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -637,7 +637,7 @@
   </g>
   <g
      id="g7-1-4"
-     transform="translate(-91.209375,-95.617417)">
+     transform="translate(-91.209377,-129.48512)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -659,7 +659,7 @@
   </g>
   <g
      id="g7-3-0"
-     transform="translate(-197.91754,-44.585726)">
+     transform="translate(-197.91755,-78.453427)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -681,7 +681,7 @@
   </g>
   <g
      id="g7-8-6-1"
-     transform="translate(-144.45219,-44.613516)">
+     transform="translate(-144.4522,-78.481217)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -703,7 +703,7 @@
   </g>
   <g
      id="g7-1-7-9"
-     transform="translate(-91.195385,-43.154366)">
+     transform="translate(-91.195387,-77.022067)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -725,7 +725,7 @@
   </g>
   <g
      id="g7-2-7"
-     transform="translate(-197.24439,5.5232142)">
+     transform="translate(-197.2444,-28.344487)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -747,7 +747,7 @@
   </g>
   <g
      id="g7-8-4-2"
-     transform="translate(-143.77904,5.4954342)">
+     transform="translate(-143.77905,-28.372267)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -769,7 +769,7 @@
   </g>
   <g
      id="g7-1-3-3"
-     transform="translate(-90.522235,6.9545742)">
+     transform="translate(-90.522237,-26.913127)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -791,7 +791,7 @@
   </g>
   <g
      id="g7-3-4-8"
-     transform="translate(-197.2304,57.986262)">
+     transform="translate(-197.23041,24.118561)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -813,7 +813,7 @@
   </g>
   <g
      id="g7-8-6-7-7"
-     transform="translate(-143.76505,57.958472)">
+     transform="translate(-143.76506,24.090771)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -835,7 +835,7 @@
   </g>
   <g
      id="g7-1-7-1-6"
-     transform="translate(-90.508245,59.417622)">
+     transform="translate(-90.508247,25.549921)">
     <circle
        fill="#ffffff"
        stroke-width="1.5"
@@ -857,11 +857,11 @@
   </g>
   <path
      style="fill:#d8d2d2;fill-opacity:1;stroke:#000000;stroke-width:2.27147;stroke-opacity:1;marker-start:url(#ArrowWideRounded)"
-     d="M 321.79253,60.36741 388.39545,18.560381"
+     d="M 325.49681,79.947179 392.09973,38.14015"
      id="path19" />
   <path
      style="fill:#d8d2d2;fill-opacity:1;stroke:#000000;stroke-width:2.27147;stroke-opacity:1;marker-start:url(#ArrowWideRounded-0)"
-     d="M 339.89971,101.94975 406.50263,60.14272"
+     d="m 338.84135,170.21434 66.60292,-41.80703"
      id="path19-3" />
   <text
      xml:space="preserve"
@@ -869,22 +869,22 @@
      x="412.76263"
      y="-73.027237"
      id="text19"
-     transform="matrix(1.8350026,0,0,1.8350026,-391.11579,151.28573)"><tspan
+     transform="matrix(1.8350026,0,0,1.8350026,-389.52825,165.57367)"><tspan
        x="412.76263"
        y="-73.027237"
-       id="tspan2">Ions (+)</tspan></text>
+       id="tspan1">Ions (+)</tspan></text>
   <text
      xml:space="preserve"
      style="writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:114.317;fill:#d8d2d2;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1"
      x="412.76263"
      y="-73.027237"
      id="text19-2"
-     transform="matrix(1.8350026,0,0,1.8350026,-349.24408,199.62941)"><tspan
+     transform="matrix(1.8350026,0,0,1.8350026,-392.63708,229.26364)"><tspan
        x="412.76263"
        y="-73.027237"
-       id="tspan3">Electron 
+       id="tspan2">Electron 
 </tspan><tspan
        x="412.76263"
        y="-58.027241"
-       id="tspan4">Cloud (-)</tspan></text>
+       id="tspan5">Cloud (-)</tspan></text>
 </svg>
